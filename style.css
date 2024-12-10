@@ -64,7 +64,7 @@ body {
   .message-container1 {
    
     position: absolute;
-    top: 65%; /* Center vertically */
+    top: 67%; /* Center vertically */
     left: 53%; /* Position element's left at 50% */
     transform: translate(-50%, -50%); /* Shift back by half its own width and height */
     width: 25em; /* Or specify a fixed width */
@@ -84,7 +84,7 @@ body {
                 0 0 10px rgba(255, 255, 255, 0.6),
                 0 0 15px rgba(255, 255, 255, 0.4);
     border: none;
-    padding: 7px 14px;
+    padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
 }
