@@ -64,7 +64,7 @@ body {
   .message-container1 {
    
     position: absolute;
-    top: 67%; /* Center vertically */
+    top: 64%; /* Center vertically */
     left: 53%; /* Position element's left at 50% */
     transform: translate(-50%, -50%); /* Shift back by half its own width and height */
     width: 25em; /* Or specify a fixed width */
